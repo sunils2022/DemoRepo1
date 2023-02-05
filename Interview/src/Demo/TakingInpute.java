@@ -11,6 +11,7 @@ long mobile=sc.nextLong();
 System.out.println("Enter gender");
 char gender=sc.next().charAt(0);
 System.out.println(name+mobile+gender);
+System.out.println("Congratulation you register successfully ");
 }
 
 }
